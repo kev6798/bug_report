@@ -1,8 +1,4 @@
-# Air Cargo Management System v1.0 has stored cross site scripting vulnerability
-
 BUG_Author: zihaokevinliu
-
-Website source address:https://www.sourcecodester.com/php/15188/air-cargo-management-system-php-oop-free-source-code.html
 
 Vulnerability url: /acms/classes/Master.php?f=save_cargo_type
 
